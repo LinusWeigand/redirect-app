@@ -1,7 +1,7 @@
 {
   "responseOverrides": {
     "404": {
-      "redirect": "https://www.couchtec.com",
+      "redirect": "https://couchtec.com",
       "statusCode": 301
     }
   },
